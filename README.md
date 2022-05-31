@@ -1,0 +1,9 @@
+# SemanaOmnistack11
+Desenvolvimento de uma aplicação completa: back-end, front-end e desenvolvimento mobile. Utilizando stack completa com ferramentas e tecnologias como Node.js, ReactJS, React Native, Expo, Insominia, JSON, frameworks de testes, etc...
+
+Este projeto foi elaborado em um bootcamp da Rocketseat.
+
+...
+Development of a complete application: back-end, front-end and mobile development. Using full stack with tools and technologies like Node.js, ReactJS, React Native, Expo, Insomnia, JSON, test frameworks, etc...
+
+This project was developed at a Rocketseat bootcamp.
